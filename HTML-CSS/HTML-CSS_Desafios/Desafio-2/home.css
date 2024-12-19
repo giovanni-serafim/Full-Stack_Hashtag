@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    font-family: "montserrat", sans-serif;
+    color: #404040;
+
+}
+
+/* cabeçalho */
+
+.ul-lista li a{
+
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* seção hero */
+
+h1{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+
